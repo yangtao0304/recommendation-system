@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+chapter2/netflix-prize-data/
+.vscode
+.DS_Store
