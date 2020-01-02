@@ -14,3 +14,8 @@
     * [FourSquare](https://archive.org/download/201309_foursquare_dataset_umn)：基于位置/评分的推荐场景
 * kaggle competition
     * [retailrocket](https://www.kaggle.com/retailrocket/ecommerce-dataset)：适用于隐式反馈的推荐场景
+
+## Chap4
+* 数据预处理
+    * 数据标准化
+    * 数据离散化
