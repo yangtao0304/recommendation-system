@@ -19,3 +19,18 @@
 * 数据预处理
     * 数据标准化
     * 数据离散化
+    * 数据清理
+    * 相似度计算
+
+* 数据分类
+    * knn
+    * decision tree
+    * naive bayes
+    * evaluate
+
+* 数据聚类
+    * k-means
+    * evaluate
+
+* 关联分析
+    * apriori
